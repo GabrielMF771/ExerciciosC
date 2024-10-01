@@ -1,3 +1,3 @@
-# Primeira Lista de Exercicios em C
+# Primeira Lista de Exercícios em C
 
 - Aritmética

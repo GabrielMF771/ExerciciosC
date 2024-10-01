@@ -1,2 +1,2 @@
-﻿# Terceira Lista de Exercicios em C
+﻿# Terceira Lista de Exercícios em C
 - Laços de Repetição
