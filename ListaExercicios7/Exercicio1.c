@@ -28,4 +28,5 @@ int main(){
     printf("Real: %.1f\n", real);
     printf("Caractere: %c\n", caractere);
 
+    return 0;
 }
