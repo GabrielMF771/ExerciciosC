@@ -2,9 +2,6 @@
 
 ## Aritmética
 
-
-Aqui está o texto corrigido com a acentuação correta:
-
 Resolva cada exercício em um arquivo .c diferente:
 
 1. Escreva um algoritmo para ler um valor (do teclado) e escrever (na tela) o seu antecessor.
